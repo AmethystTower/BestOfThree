@@ -1,0 +1,11 @@
+C:\Users\Alex\Documents\GitHub\BestOfThree\BestOfThree\bin\Debug\netcoreapp3.1\BestOfThree.exe
+C:\Users\Alex\Documents\GitHub\BestOfThree\BestOfThree\bin\Debug\netcoreapp3.1\BestOfThree.deps.json
+C:\Users\Alex\Documents\GitHub\BestOfThree\BestOfThree\bin\Debug\netcoreapp3.1\BestOfThree.runtimeconfig.json
+C:\Users\Alex\Documents\GitHub\BestOfThree\BestOfThree\bin\Debug\netcoreapp3.1\BestOfThree.runtimeconfig.dev.json
+C:\Users\Alex\Documents\GitHub\BestOfThree\BestOfThree\bin\Debug\netcoreapp3.1\BestOfThree.dll
+C:\Users\Alex\Documents\GitHub\BestOfThree\BestOfThree\bin\Debug\netcoreapp3.1\BestOfThree.pdb
+C:\Users\Alex\Documents\GitHub\BestOfThree\BestOfThree\obj\Debug\netcoreapp3.1\BestOfThree.csprojAssemblyReference.cache
+C:\Users\Alex\Documents\GitHub\BestOfThree\BestOfThree\obj\Debug\netcoreapp3.1\BestOfThree.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\GitHub\BestOfThree\BestOfThree\obj\Debug\netcoreapp3.1\BestOfThree.AssemblyInfo.cs
+C:\Users\Alex\Documents\GitHub\BestOfThree\BestOfThree\obj\Debug\netcoreapp3.1\BestOfThree.dll
+C:\Users\Alex\Documents\GitHub\BestOfThree\BestOfThree\obj\Debug\netcoreapp3.1\BestOfThree.pdb
